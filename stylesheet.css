@@ -16,3 +16,9 @@ body{
             margin-left: 40px;
 			font-size: 20px
     }
+	.layout{
+		background-color: lightgreen;padding: 20px; width: 450px; box-sizing: border-box;
+	}
+	.layoutGold{
+		background-color: gold;padding: 20px; width: 1500px; box-sizing: border-box;
+	}
