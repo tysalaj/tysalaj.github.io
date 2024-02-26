@@ -1,0 +1,18 @@
+body{
+			height: 100%;
+            padding-top: 20px;
+			padding-left: 10px;
+			font-family: 'Georgia', serif;
+			background-color: tan;
+    }
+    .top-links{
+            position: absolute;
+            top: 20px;
+            right: 80px;
+    }
+    .top-links a {
+            color: black;
+            font-weight: bold;
+            margin-left: 40px;
+			font-size: 20px
+    }
